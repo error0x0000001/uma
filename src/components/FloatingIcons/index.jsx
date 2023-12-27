@@ -9,7 +9,7 @@ const FloatingIcons = () => {
     <div className="z-[10] flex justify-between w-full items-center my-14">
       <a href="mailto:arjunpandeyy12@gmail.com" className="social">
         <motion.span
-          animate={{ opacity: 1, scale: 1 }}
+          animate={{ opacity: 1, scale: 0.3 }}
           initial={{ opacity: 0, scale: 0 }}
           transition={{
             duration: 0.5,
