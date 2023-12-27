@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/uma/static/css/main.0ff5fa40.css",
+    "main.js": "/uma/static/js/main.e50f4d92.js",
+    "static/media/CineView.png": "/uma/static/media/CineView.fa0d1683cbaf478bdbbf.png",
+    "static/media/uma.png": "/uma/static/media/uma.5f36714c037e41c99716.png",
+    "static/media/Gilmer Outline.otf": "/uma/static/media/Gilmer Outline.f022603f5aad9f480f32.otf",
+    "static/media/Gilmer Regular.otf": "/uma/static/media/Gilmer Regular.fc8ac2cfa82256e66797.otf",
+    "static/media/Gilmer Medium.otf": "/uma/static/media/Gilmer Medium.eb4f5ee9778460bd3d2c.otf",
+    "static/media/Gilmer Heavy.otf": "/uma/static/media/Gilmer Heavy.15c37038b9924d7da58c.otf",
+    "static/media/Gilmer Light.otf": "/uma/static/media/Gilmer Light.79ad87da5f186ef4527f.otf",
+    "static/media/Gilmer Bold.woff": "/uma/static/media/Gilmer Bold.2b3f502582acde17433d.woff",
+    "static/media/resume.pdf": "/uma/static/media/resume.3205983b861ac3269ff7.pdf",
+    "static/media/lines.svg": "/uma/static/media/lines.e7b257612ec3ea1e6090.svg",
+    "static/media/react.svg": "/uma/static/media/react.fdd3331d261ad6d5e1c92448737aa2aa.svg",
+    "static/media/firebase.svg": "/uma/static/media/firebase.4d1511982aab4c202664c0ab14217590.svg",
+    "static/media/node.svg": "/uma/static/media/node.d39adae080cb59077b8c3a842bfd959c.svg",
+    "static/media/next.svg": "/uma/static/media/next.10201292c9dc59017cf0b7aee0f8f084.svg",
+    "static/media/linkedin.svg": "/uma/static/media/linkedin.7defd339fd92d3e5fa034b24a5f10ed6.svg",
+    "static/media/tailwind.svg": "/uma/static/media/tailwind.552f38c9afe62444ff6e56d819ea46f4.svg",
+    "static/media/gmail.svg": "/uma/static/media/gmail.0287b363a72d3c0f445cc724d84f1452.svg",
+    "static/media/github.svg": "/uma/static/media/github.a4a6a7ae8671bf5749a6aaa4d604fdaa.svg",
+    "static/media/figma.svg": "/uma/static/media/figma.d8e11e391a62a9686ea585915c747d73.svg",
+    "static/media/git.svg": "/uma/static/media/git.da7cbb7e0f60abd807f4ef40cc3da768.svg",
+    "static/media/mongo.svg": "/uma/static/media/mongo.67761c18dd27879104c98bfc4930d459.svg",
+    "index.html": "/uma/index.html",
+    "static/media/js.svg": "/uma/static/media/js.0dd1cf6c80bb500c655a617006c1148a.svg",
+    "main.0ff5fa40.css.map": "/uma/static/css/main.0ff5fa40.css.map",
+    "main.e50f4d92.js.map": "/uma/static/js/main.e50f4d92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ff5fa40.css",
+    "static/js/main.e50f4d92.js"
+  ]
+}
