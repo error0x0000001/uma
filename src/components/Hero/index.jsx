@@ -100,12 +100,7 @@ const Hero = () => {
             <div className="w-full flex md:flex-row flex-col justify-between items-center ">
               <div>
                 <p className=" text-white/60 font-Glimer-Light xl:text-[1.3rem] 2xl:text-[1.5rem] lg:text-base md:text-sm text-xs xl:leading-8 2xl:leading-9 lg:leading-6 leading-5 mb-6 md:mb-0">
-                  As a frontend developer, my expertise lies in creating
-                  seamless and intuitive user experiences. I specialize in using
-                  cutting-edge technologies to produce high-quality web
-                  applications. Specifically, I have vast knowledge of ReactJS
-                  and NodeJS, which allow me to build complex and dynamic
-                  applications with ease.
+                  As a frontend wizard, I craft digital experiences so smooth, even butter gets jealous. My expertise? Think of me as the conductor of the technology orchestra, waving my wand made of ReactJS and NodeJS to create web applications that are more magical than a unicorn on roller skates. I turn complex into captivating, and dynamic is my middle name. Let's make the internet a fun place, one line of code at a time!
                 </p>
               </div>
 
