@@ -66,6 +66,7 @@ const Hero = () => {
                   src={profilePhoto}
                   alt="Umashankar"
                   onClick={handlePhrases}
+                  onTouchStart={handlePhrases}
                   id="profilePhoto"
                   className="rounded-full !z-10 lg:h-20 lg:w-20 md:h-16 md:w-16 vvs:h-14 vvs:w-14 w-12 h-12 hover:scale-[1.05] hover:shadow-custom1 hover:-rotate-12 transition-all duration-300 ease-in-out cursor-pointer"
                 />
